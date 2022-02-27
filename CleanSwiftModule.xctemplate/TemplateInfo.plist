@@ -13,7 +13,7 @@
 	<key>DefaultCompletionName</key>
 	<string>CleanSwiftModule</string>
 	<key>Description</key>
-	<string>Clean Swift template: create complete scene with Models, View, ViewController, Presenter, Interactor, Router. Create Repository classes. Create Unit Test classes.</string>
+	<string>Clean Swift template: create complete scene with Models, View, ViewController, Presenter, Interactor, Router. Create Repository classes. Create Unit Test classes. Create view class.</string>
 	<key>Kind</key>
 	<string>Xcode.IDEKit.TextSubstitutionFileTemplateKind</string>
 	<key>MainTemplateFile</key>
@@ -54,6 +54,7 @@
 				<string>Scene</string>
 				<string>Repository</string>
 				<string>Unit Test</string>
+				<string>View</string>
 			</array>
 			<key>Default</key>
 			<string>Scene</string>
@@ -72,6 +73,6 @@
 	<key>Template Author</key>
 	<string>ArtCC</string>
 	<key>Summary</key>
-	<string>This generates a new scene using Clean Swift architecture for iOS.</string>
+	<string>This generates a new scene, repository, unit test or view using Clean Swift architecture for iOS.</string>
 </dict>
 </plist>
