@@ -2,6 +2,7 @@
 //  ___FILENAME___
 //  ___PROJECTNAME___
 //
+//  Created ___FULLUSERNAME___ on ___DATE___.
 //  Copyright © ___YEAR___ ___ORGANIZATIONNAME___. All rights reserved.
 //
 
@@ -20,6 +21,7 @@ class ___VARIABLE_cleanSwiftModuleName___Router: ___VARIABLE_cleanSwiftModuleNam
   // MARK: - Properties
 
   weak var viewController: ___VARIABLE_cleanSwiftModuleName___ViewController?
+  
   var dataStore: ___VARIABLE_cleanSwiftModuleName___DataStore?
 
   // MARK: - Routing
